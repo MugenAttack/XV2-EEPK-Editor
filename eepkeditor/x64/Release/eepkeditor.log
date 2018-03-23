@@ -1,0 +1,22 @@
+﻿  AnchorForm.cpp
+c:\users\gaming-pc\documents\visual studio 2015\projects\eepkeditor\eepkeditor\AnchorForm.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+AnchorForm.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+AnchorForm.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1001 of 24852 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    819 functions were new in current compilation
+    115 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  eepkeditor.vcxproj -> C:\Users\Gaming-PC\Documents\Visual Studio 2015\Projects\eepkeditor\x64\Release\eepkeditor.exe
+  eepkeditor.vcxproj -> C:\Users\Gaming-PC\Documents\Visual Studio 2015\Projects\eepkeditor\x64\Release\eepkeditor.pdb (Full PDB)
